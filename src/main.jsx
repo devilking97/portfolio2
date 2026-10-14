@@ -5,7 +5,7 @@ import { ArrowUpRight, ArrowRight, Github, Linkedin, Mail, Download, Menu, X, Co
 import { profile, projects, experience, skills, certificates } from './data'
 import './styles.css'
 
-const siteName = 'Aghiles Khoukhou — Software Engineer'
+const siteName = 'Aghiles — Software Engineer'
 const siteDescription = 'Software engineer and co-founder building thoughtful digital products, scalable marketplaces, and full-stack platforms.'
 
 function PageEffects() {
